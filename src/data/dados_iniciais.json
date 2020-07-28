@@ -3,7 +3,7 @@
     {
       "titulo": "Ciência",
       "link": "https://www.youtube.com/c/CienciaTodoDia",
-      "cor": "#6BD1FF",
+      "cor": "#1f95c7",
       "link_extra": {
         "text": "Um canal totalmente voltado para assuntos que podem ser abordados no cotidiano, mantendo seu cérebro sempre ativo!",
         "url": "https://www.alura.com.br/cursos-online-front-end"
@@ -45,7 +45,7 @@
     },
     {
       "titulo": "Curiosidades",
-      "cor": "#00C86F",
+      "cor": "#00d5b6",
       "link_extra": {
         "text": "O Canal Voce Sabia reune as melhores curiosidades, historias e fatos interessantes do mundo.",
         "url": "https://www.youtube.com/c/vcsabiavideos"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "História",
-      "cor": "#9cd33b",
+      "cor": "#7159c1",
       "link_extra": {
         "text": "Ensinando e divertindo...Vídeos novos quando possível, coisas boas levam tempo! ",
         "url": "https://www.youtube.com/nostalgia/about"
@@ -104,30 +104,26 @@
       "cor": "orange",
       "videos": [
         {
+          "titulo": "Star Wars: A Ascensão Skywalker – Trailer Oficial",
+          "url": "https://www.youtube.com/watch?v=Cmgv3fwoxQw"
+        },
+        {
+          "titulo": "Trailer - Guardiões da Galáxia",
+          "url": "https://www.youtube.com/watch?v=8VN_l57QWyQ"
+        },
+        {
+          "titulo": "Star Trek: Discovery | Trailer Oficial | Netflix [HD]",
+          "url": "https://www.youtube.com/watch?v=aSK8owZEbDk"
+        },
+        {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         }
       ]
     },
     {
       "titulo": "Documentários",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Os melhores Documentários",
-        "url": "#"
-      },
+      "cor": "#00b7cd",
       "videos": [
         {
           "titulo": "Trailer Cosmos: Mundos Possíveis",
@@ -153,15 +149,11 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "cor": "#50fa7b",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "World of Warcraft: Shadowlands Cinematic Trailer",
+          "url": "https://www.youtube.com/watch?v=s4gBChg6AII"
         },
         {
           "titulo": "Assassins Creed Valhalla",

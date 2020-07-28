@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 :root {
-    --primary: #2A7AE4;
-    --black: #000000;
+    --primary: #7289DA ;
+    --black: rgb(15, 15, 15);
     --blackLighter: #9E9E9E;
     --grayLight: #F5F5F5;
     --grayMedium: #e5e5e5;
