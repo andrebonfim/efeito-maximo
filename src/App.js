@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Você sabe o que é entropia? Será que ela é mesmo o grau de desordem de um sistema? Ela pode parecer complexa, mas na verdade faz bastante sentido uma vez que você entende o que ela é. Esse vídeo é sobre entropia e a segunda lei da termodinâmica, que diz que a entropia de um sistema isolado deve sempre aumentar."}
       />
 
       <Carousel

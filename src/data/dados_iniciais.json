@@ -1,101 +1,101 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Ciência",
+      "link": "https://www.youtube.com/c/CienciaTodoDia",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Um canal totalmente voltado para assuntos que podem ser abordados no cotidiano, mantendo seu cérebro sempre ativo!",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "A ENTROPIA EXPLICADA",
+          "url": "https://www.youtube.com/watch?v=qjHfkfIs1Ug"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "A História COMPLETA da GRAVITAÇÃO UNIVERSAL | Episódio 9",
+          "url": "https://www.youtube.com/watch?v=4OLOOs-uMhM"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "A Revolução do Raio X",
+          "url": "https://www.youtube.com/watch?v=WJwiBpX1QNQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "O Mistério dos Quasares",
+          "url": "https://www.youtube.com/watch?v=rfxxd_JYuAE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Buracos Negros Explicados",
+          "url": "https://www.youtube.com/watch?v=GbJJRsS6OR4&t=2s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "O Fim do Universo",
+          "url": "https://www.youtube.com/watch?v=uLh-6mQoQnU"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "O Que Meu DNA Pode Dizer Sobre Mim?",
+          "url": "https://www.youtube.com/watch?v=9flhEc_b8Ro"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Por Que Computadores NÃO PODEM Gerar Números Aleatórios?",
+          "url": "https://www.youtube.com/watch?v=LqXnpIn2Uxs"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Curiosidades",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "O Canal Voce Sabia reune as melhores curiosidades, historias e fatos interessantes do mundo.",
+        "url": "https://www.youtube.com/c/vcsabiavideos"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "EM QUANTO TEMPO A TERRA SE TORNARÁ INABITÁVEL?? - #VSResponde",
+          "url": "https://www.youtube.com/watch?v=TJ94oWqoe3o"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "UM METEORO CAIU NO BRASIL?? - ENTENDA O CASO",
+          "url": "https://www.youtube.com/watch?v=Ttao2GKmrlY"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "O MISTERIOSO CABEÇA DE SIRENE!! Ele existe DE VERDADE?? (SIREN HEAD)",
+          "url": "https://www.youtube.com/watch?v=_TIRM23YAOs"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "MICHAEL JACKSON ESTÁ VIVO E FAZENDO LIVE NO INSTAGRAM?? - VERDADEIRO OU FALSO??",
+          "url": "https://www.youtube.com/watch?v=7PbMJtqsVu8"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "COM QUANTOS ANOS VOCÊ DESCOBRIU ISSO??",
+          "url": "https://www.youtube.com/watch?v=E8-FJgIyw6s"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "História",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Ensinando e divertindo...Vídeos novos quando possível, coisas boas levam tempo! ",
+        "url": "https://www.youtube.com/nostalgia/about"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "De NAPOLEÃO a LUA! Nostalgia História",
+          "url": "https://www.youtube.com/watch?v=Oo3GKAu2AVE"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "OS MISTÉRIOS DO ANTIGO EGITO - Nostalgia História",
+          "url": "https://www.youtube.com/watch?v=ebm-fLo9-NA&list=PL2EJlPZ0iJu7JMchSngqLHyzV_sU91N7Y&index=3"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Um dia em CHERNOBYL - Canal Nostalgia",
+          "url": "https://www.youtube.com/watch?v=soB_zeZhVc0&list=PL2EJlPZ0iJu7JMchSngqLHyzV_sU91N7Y&index=4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "A História por trás do 11 de Setembro / Nostalgia História",
+          "url": "https://www.youtube.com/watch?v=79YrLCTa91E&list=PL2EJlPZ0iJu7JMchSngqLHyzV_sU91N7Y&index=5"
         }
       ]
     },
@@ -118,6 +118,36 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Documentários",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Os melhores Documentários",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Trailer Cosmos: Mundos Possíveis",
+          "url": "https://www.youtube.com/watch?v=3mvFHXygb-Y"
+        },
+        {
+          "titulo": "Há uma base extraterrestre em Porto Rico? | ALIENÍGENAS DO PASSADO | History",
+          "url": "https://www.youtube.com/watch?v=cQlMd25Qayk&list=PLAr322Yg8UkDNyNQhZVQDHKcdlPmF5uQd"
+        },
+        {
+          "titulo": "EPISÓDIO COMPLETO: ÓVNIS: MISSÕES ESPACIAIS ULTRASSECRETAS | HISTORY",
+          "url": "https://www.youtube.com/watch?v=VOYufldR-V8"
+        },
+        {
+          "titulo": "Uma explosão violenta | O UNIVERSO | History",
+          "url": "https://www.youtube.com/watch?v=s32bdqWhdiw&list=PLAr322Yg8UkDlZH7ICxnWF_WAsjFmMqVT"
+        },
+        {
+          "titulo": "Sete mundos, um planeta: a extraordinária vida em nosso planeta | Discovery Brasil",
+          "url": "https://www.youtube.com/watch?v=nZqsPJYuXII"
         }
       ]
     },
@@ -148,36 +178,6 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
