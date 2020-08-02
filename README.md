@@ -1,4 +1,4 @@
-# Launchbase
+# Imersão React
 
 - Criado especificamente para integrar as aulas da **ALura** referente ao **Imersão React**. Uma semana inteira de aprofundamento no mundo ReactJs e suas ferramentas...
 
