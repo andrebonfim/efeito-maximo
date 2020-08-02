@@ -19,7 +19,7 @@ function CadastroCategoria() {
   useEffect(() => {
     const URL_TOP = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categorias'
-      : 'https://devsoutinhoflix.herokuapp.com/categorias';
+      : 'https://efeito-maximo.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
@@ -90,8 +90,8 @@ function CadastroCategoria() {
         ))}
       </ul>
 
-      <Link to="/">
-        Ir para home
+      <Link className="link-style" to="/">
+        <a>Ir para home</a>
       </Link>
     </PageDefault>
   );

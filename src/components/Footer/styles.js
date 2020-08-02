@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 
-
 export const FooterBase = styled.footer`
   background: var(--black);
   border-top: 2px solid var(--primary);
@@ -13,7 +12,22 @@ export const FooterBase = styled.footer`
   @media (max-width: 800px) {
     margin-bottom: 50px;
   }
-  a {
+  p a {
     color: var(--primary);
+    text-decoration: none;
+    border-bottom: 1px solid #FFFFFF;
   }
+  p a:hover {
+    color: #FFFFFF;
+    border-bottom: 1px solid var(--primary);
+    transition: 200ms;
+  }
+  .Logo {
+  max-width: 168px;
+}
+@media (max-width: 800px) {
+  .Logo {
+    max-width: 130px;
+  }
+}
 `;
